@@ -1,0 +1,13 @@
+print ("2+2")
+print (2+2)
+print (" ")
+print ("4/2+3")
+print (4/2+3)
+print (" ")
+print ("10+2/2")
+print (10+2/2)
+print (" ")
+print ("un anyo tiene")
+print (365*24*60*60)
+print ("segundos")
+
