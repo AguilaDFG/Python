@@ -29,7 +29,10 @@ while on:
     if question == "off":
         on = False
     elif question == "report":
-        print(resources)
+        print(f'water: {resources["water"]} mL')
+        print(f'milk: {resources["milk"]} mL')
+        print(f'coffee: {resources["coffee"]} g')
+        print(f'money: $ {resources["money"]}')
     elif question == "espresso":
         coffee("espresso")
     elif question == "latte":
