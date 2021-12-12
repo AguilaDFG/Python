@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75f0502f-8b7e-42c9-ae82-eaddc9f8fb8b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/Band-name-generator/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/Day-1-3-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/Day-1-3-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/Day-1-4-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/Day-1-4-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/Day1-2-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/Day1-2-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/Prueba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/day-1-1-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/day-1-1-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../002/Day-2-1-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../002/Day-2-1-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../002/Day-2-2-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../002/Day-2-2-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../002/Day-2-3-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../002/Day-2-3-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../002/Tip-calculator/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../003/Day-3-1-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../003/Day-3-1-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../003/Day-3-2-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../003/Day-3-2-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../003/Day-3-3-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../003/Day-3-3-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../003/Day-3-4-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../003/Day-3-4-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../003/Day-3-5-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../003/Day-3-5-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../003/Treasure-island/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../004/Day-4-1-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../004/Day-4-1-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../004/Day-4-2-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../004/Day-4-2-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../004/Day-4-3-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../004/Day-4-3-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../004/Rock-paper-scissors/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../005/Day-5-1-esercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../005/Day-5-1-esercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../005/Day-5-2-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../005/Day-5-2-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../005/Day-5-3-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../005/Day-5-3-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../005/Day-5-4-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../005/Day-5-4-exercise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../005/Password-generator/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../007/hangman/hangman_art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../007/hangman/hangman_words.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../007/hangman/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../008/Day_8_excersise_1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../008/Day_8_excersise_1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../008/Day_8_exercise_2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../008/Day_8_exercise_2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../008/caesar_cipher/art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../008/caesar_cipher/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../009/Day-9-excersise-1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../009/Day-9-excersise-1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../009/Day-9-excersise-2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../009/Day-9-excersise-2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../009/Secret-bid/art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../009/Secret-bid/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../010/Calculator/art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../010/Calculator/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../010/Day_10_excersise_1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../010/Day_10_excersise_1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../011/blackjack(first)/art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../011/blackjack(first)/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../011/blackjack(sol)/art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../011/blackjack(sol)/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../012/Guess_The_Number/art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../012/Guess_The_Number/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../013/excersise_0/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../013/excersise_1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../013/excersise_1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../013/excersise_2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../013/excersise_2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../013/excersise_3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../013/excersise_3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../014/higher-lower/art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../014/higher-lower/game_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../014/higher-lower/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Previo/Calculo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Previo/Calculo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Previo/Dibujos.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Previo/Dibujos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Previo/HolaMundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Previo/HolaMundo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Previo/preguntas.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Previo/preguntas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="21VXOD54iUhs7OfzsJgOWYpS1En" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75f0502f-8b7e-42c9-ae82-eaddc9f8fb8b" name="Changes" comment="" />
+      <created>1638027195212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638027195212</updated>
+    </task>
+    <servers />
+  </component>
+</project>
