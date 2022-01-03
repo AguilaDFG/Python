@@ -2,6 +2,7 @@ from turtle import Turtle
 class Scoreboard(Turtle):
     def __init__(self):
         super().__init__()
+<<<<<<< HEAD
         self.color("white")
         self.penup()
         self.hideturtle()
@@ -18,3 +19,21 @@ class Scoreboard(Turtle):
     def r_point(self):
         self.r_score += 1
         self.update_scoreboard()
+=======
+        self.score1 = 0
+        self.score2 = 0
+        self.ht()
+        self.pu()
+        self.speed(0)
+        self.color("white")
+        self.goto(0,370)
+        self.write(align="center", arg=f"{self.score1} - {self.score2}", font=("Courier", 20, "normal"))
+    def add_score1(self):
+        self.score1 += 1
+        self.clear()
+        self.write(align="center", arg=f"Score: {self.score1} - {self.score2}",font=("Courier", 20, "normal"))
+    def add_score2(self):
+        self.score2 += 1
+        self.clear()
+        self.write(align="center", arg=f"Score: {self.score1} - {self.score2}",font=("Courier", 20, "normal"))
+>>>>>>> day 22
