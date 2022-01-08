@@ -13,4 +13,21 @@
 
 import pandas
 weather_data = pandas.read_csv("weather_data.csv")
-print(weather_data["temp"])
+#print(weather_data["temp"])
+
+#weather_dict = weather_data.to_dict()
+#print(weather_dict)
+#temp_list = weather_data["temp"].to_list()
+#print(temp_list)
+
+#temp_average = sum(temp_list) / len(temp_list)
+#print(temp_average)
+#print(weather_data["temp"].mean())
+#print(weather_data["temp"].max())
+
+#print(weather_data[weather_data.day == "Monday"])
+#print(weather_data[weather_data.temp == weather_data.temp.max()])
+
+#monday = weather_data[weather_data.day == "Monday"]
+#monday_temp_F = monday.temp*9/5 + 32
+#print(monday_temp_F)
